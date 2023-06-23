@@ -5,17 +5,18 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
       margin: 0;
       padding: 0;
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
+      background-image: url('https://e7.pngegg.com/pngimages/217/379/png-clipart-donald-duck-mickey-mouse-scrooge-mcduck-daisy-duck-huey-dewey-and-louie-duck-television-animals.png');
+      background-size: cover;
     }
     
     .container {
-      background-color: #ffffff;
+      background-color: rgba(255, 255, 255, 0.8);
       border-radius: 5px;
       box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
       padding: 20px;
