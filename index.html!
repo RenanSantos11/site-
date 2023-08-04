@@ -11,7 +11,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background-image: url('https://github.com/RenanSantos11/site-/blob/1721b0f1ccbf57b68b69e98f1d69e4c50fc06715/download.jpeg');
+      background-image: url('https://github.com/RenanSantos11/site-/blob/main/download.jpeg?raw=true');
       background-size: cover;
     }
     
