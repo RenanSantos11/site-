@@ -11,7 +11,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background-image: url('https://github.com/RenanSantos11/site-/blob/main/download.jpeg?raw=true');
+      background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffotos-gratis%2Fuma-pintura-de-um-lago-de-montanha-com-uma-montanha-ao-fundo_188544-9126.jpg&tbnid=ASMDFNsL7Vw1YM&vet=12ahUKEwjVma3fh8SAAxU9upUCHaxfDFsQMygBegUIARDKAQ..i&imgrefurl=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Fpapel-parede-desktop&docid=yf3qPdM2VOWlEM&w=626&h=358&q=imagens%20tops%20para%20fundo%20de%20um%20site%20em%204k&hl=pt-BR&ved=2ahUKEwjVma3fh8SAAxU9upUCHaxfDFsQMygBegUIARDKAQ');
       background-size: cover;
     }
     
