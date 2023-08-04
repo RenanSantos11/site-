@@ -11,7 +11,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background-image: url('https://e7.pngegg.com/pngimages/217/379/png-clipart-donald-duck-mickey-mouse-scrooge-mcduck-daisy-duck-huey-dewey-and-louie-duck-television-animals.png');
+      background-image: url('https://github.com/RenanSantos11/site-/blob/main/download.jpeg?raw=true');
       background-size: cover;
     }
     
