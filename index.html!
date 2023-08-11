@@ -11,7 +11,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background-image: url('https://github.com/RenanSantos11/site-/blob/main/wallpaperbetter.com_1920x1080.jpg?raw=true');
+      background-image: url('https://github.com/RenanSantos11/site-/blob/main/pexels-arshad-sutar-1749303.jpg?raw=true');
       background-size: cover;
     }
     
