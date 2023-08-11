@@ -11,7 +11,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background-image: url('https://github.com/RenanSantos11/site-/blob/main/pexels-arshad-sutar-1749303.jpg?raw=true');
+      background-image: url('https://images.pexels.com/photos/1749303/pexels-photo-1749303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
       background-size: cover;
     }
     
